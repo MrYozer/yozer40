@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Keyboard_Parts)(type Legacy)(uri C:/Users/Yozer/Downloads/kicad_lib_tmk-master/keyboard_parts.lib)(options "")(descr ""))
+  (lib (name crystal_thing)(type Legacy)(uri C:/Users/Yozer/Downloads/FA-238/FA-238.lib)(options "")(descr ""))
+)

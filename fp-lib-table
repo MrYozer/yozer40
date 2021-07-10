@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name mitosis)(type KiCad)(uri C:/Users/Yozer/Downloads/mitosis-hardware-joric_kicad/kicad-mitosis/default/default.pretty)(options "")(descr ""))
+  (lib (name keyboard)(type KiCad)(uri C:/Users/Yozer/Downloads/keyboard_parts.pretty)(options "")(descr ""))
+  (lib (name crystal_thing)(type KiCad)(uri C:/Users/Yozer/Downloads/FA-238)(options "")(descr ""))
+)
